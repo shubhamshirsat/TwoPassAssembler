@@ -1,0 +1,6 @@
+start 00 AD 01
+
+mov 01 AD 01
+
+add 10 IM 01
+sub 11 IM 01
