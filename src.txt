@@ -1,5 +1,2 @@
-start:
-	
-	mov eax ebx
-	
-	
+start
+	mover eax ebx
