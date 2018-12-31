@@ -1,6 +1,9 @@
-start 00 AD 01
-
-mov 01 AD 01
-
-add 10 IM 01
-sub 11 IM 01
+START   0000  AD  01
+STOP    0001    AD  01
+ADD 0010    IS  01
+SUB 0011    IS  01
+MUL 0100    IS  01
+DIV 0101    IS  01
+MOVER   0110    IS  01
+MOVEM   0111    IS  01
+COMP    1000    IS  01
